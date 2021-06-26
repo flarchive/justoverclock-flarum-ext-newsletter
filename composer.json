@@ -1,0 +1,42 @@
+{
+  "name": "justoverclock/flarum-ext-newsletter",
+  "description": "Allow admin to collect Email address through ElasticEmail Api",
+  "keywords": [
+    "newsletter"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.0.0"
+  },
+  "require-dev": {
+    "flarum/testing": "^1.0.0"
+  },
+  "authors": [
+    {
+      "name": "Marco Colia",
+      "email": "info@flarum.it",
+      "role": "Developer",
+        "homepage": "https://flarum.it"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Justoverclock\\Newsletter\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Newsletter",
+      "category": "",
+      "icon": {
+        "name": "fas fa-envelope-open-text",
+        "backgroundColor": "red",
+        "color": "white"
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
