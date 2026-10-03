@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of justoverclock/flarum-ext-newsletter.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/flarum-ext-newsletter) or the [upstream repository](https://github.com/justoverclockl/flarum-ext-newsletter).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/justoverclock-flarum-ext-newsletter/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**4** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/justoverclock-flarum-ext-newsletter/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-05-08 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-newsletter/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-05-08 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-newsletter/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-05-08 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-newsletter/tree/archive/v0.1.2) |
+| `1.0.0` | 2021-06-26 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-newsletter/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/justoverclock-flarum-ext-newsletter.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-flarum-ext-newsletter.json)
 
